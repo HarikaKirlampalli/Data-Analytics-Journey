@@ -162,15 +162,14 @@ Topics Covered:
 - Multiple OOP Examples
 
 ## 📅 Day 22 
-📚 Topics Covered:
-  Introduction to Inheritance
-  Single Inheritance
-  Multiple Inheritance
-  Multilevel Inheritance
-  Hierarchical Inheritance
-  Hybrid Inheritance
-  super() Method
-  Constructor Inheritance using __init__()
+- Introduction to Inheritance
+- Single Inheritance
+- Multiple Inheritance
+- Multilevel Inheritance
+- Hierarchical Inheritance
+- Hybrid Inheritance
+- `super()` Method
+- Constructor Inheritance using `__init__()`
 
  ## 📅 Day 23
 - Polymorphism
