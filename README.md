@@ -206,6 +206,32 @@ Topics Covered:
 - Counted Total Objects using Class Variables
 
 💻 Project:
-- University Management System using Object-Oriented Programming (OOP) 
+- University Management System using Object-Oriented Programming (OOP)
+
+- ## 📅 Day 25
+📚 Topics Covered:
+- Introduction to Error Handling
+- Syntax Errors
+- Indentation Errors
+- ValueError
+- Exception Handling
+- try Block
+- except Block
+- else Block
+- finally Block
+- Handling ZeroDivisionError
+- Handling Multiple Exceptions
+
+- ### ✅ Day 26
+**Topics Covered:**
+- File Handling in Python
+- open() Function
+- with open() Statement
+- File Modes (r, w, a, x)
+- write() Function
+- read() Function
+- readline() Function
+- readlines() Function
+- Hands-on File Operations
 
 Started my Data Analytics learning journey and successfully executed Python programs using IDLE.
