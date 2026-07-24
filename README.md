@@ -254,4 +254,21 @@ Topics Covered:
   - {}
 - Pattern Matching Examples
 
+- ## 📅 Day 28
+📚 Topics Covered:
+- Python datetime Module
+- Date & Time Formatting using strftime()
+- Calendar Module
+- Weekday & Leap Year
+- Introduction to Data Analysis
+- Types of Data Analysis
+- NumPy Introduction
+- 1D & 2D Arrays
+- Array Indexing & Slicing
+- Array Functions (sum, mean, max, min)
+- Reshape Function
+- Pandas Introduction
+- Series
+- DataFrame Creation
+
 Started my Data Analytics learning journey and successfully executed Python programs using IDLE.
